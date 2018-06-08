@@ -1,0 +1,165 @@
+body {
+    font-family: calibri;
+    background-color: azure;
+}
+
+#box1 {
+    background-color: lavender;
+}
+
+#box2 {
+    background-color:lavenderblush;
+    /* position: relative;
+    bottom: 260px;
+    left: 200px; */
+    /* position: absolute;
+    top: 0px;
+    right: 0px; */
+
+}
+
+.imgDiv {
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    background-color:khaki;
+}
+
+#box3 {
+    background-color: lawngreen;
+}
+
+#box4 {
+    background-color: lemonchiffon;
+}
+
+#box5 {
+    background-color: lightcoral;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+
+h2 {
+    display: inline;
+}
+
+h1.original_h1 {
+    color: mediumspringgreen;
+}
+
+h1.new_h1 {
+    color: mediumorchid;
+}
+
+h1#show1 {
+    color: lemonchiffon;
+}
+
+h1#show2 {
+ color: rosybrown;  
+}
+
+h1#show3 {
+    color: moccasin;
+}
+
+h1#show4 {
+ color: sienna;   
+}
+
+h1#show5 {
+    color: navy;
+}
+
+a {
+    color: fuchsia;
+    text-decoration: none;
+}
+
+a:hover {
+    cursor: pointer;
+    font-weight: bold;
+    color: darkorange;
+}
+
+.boxes {
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+    border: solid;
+    border-radius: 1px;
+    width: 20%;
+}
+
+.newColorWeight {
+    color: blueviolet;
+    font-weight: bold;
+}
+
+.li1 {
+    color: hotpink;
+}
+
+.li2 {
+    color: rebeccapurple;
+}
+
+.li3 {
+    color: rosybrown;
+}
+
+.li4 {
+    color: red;
+}
+
+.li5 {
+    color: honeydew;
+}
+
+.li6 {
+    color: turquoise;
+}
+
+.li7 {
+    color: tan;
+}
+
+.li8 {
+    color: teal;
+}
+
+.li9 {
+    color:thistle;
+}
+
+.li10 {
+    color: tomato;
+}
+
+.li11 {
+    color: darkkhaki;
+}
+
+.li12 {
+    color: darkolivegreen;
+}
+
+.li13 {
+    color: darkorange;
+}
+
+.li14 {
+    color: darkorange;
+}
+
+.li15 {
+    color: darkred;
+}
+
+.borderDiv {
+    border: 2px solid black;
+    margin: 1rem;
+
+}
